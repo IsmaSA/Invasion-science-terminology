@@ -1,6 +1,6 @@
 # Script to organise terminology data from the invasion science literature
 
-<img align="right" src="www/invacostlogo.png" alt="new InvaCost logo" width="250" style="margin-top: 20px">
+<img align="right" src="www/terminology.png" width="250" style="margin-top: 20px">
 
 <br>
 Ismael Soto, University of South Bohemia in České Budějovice, Faculty of Fisheries and Protection of Waters, South Bohemian Research Centre of Aquaculture and Biodiversity of Hydrocenoses, Zátiší 728/II, 389 25 Vodňany, Czech Republic 
