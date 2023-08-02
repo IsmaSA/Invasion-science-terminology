@@ -1,4 +1,4 @@
-# Script to organise terminology data from the invasion science literature
+# Script to organise terminology data from the invasion-science literature
 
 <img align="right" src="www/terminology.png" width="250" style="margin-top: 20px">
 
