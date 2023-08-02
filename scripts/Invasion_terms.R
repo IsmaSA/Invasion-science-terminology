@@ -1,6 +1,6 @@
 
 # Invasion terms 
-
+# Ismael Soto & Corey Bradshaw
 
 #####################################   Formatting   ################################################
 
@@ -63,12 +63,6 @@ df4 %>%
 
 ################################################################################################################
 
-
-## invasion science terminology
-## July 2023
-## Corey Bradshaw
-## Flinders University
-
 ## call libraries
 library(wordcloud)
 library(RColorBrewer)
@@ -96,7 +90,6 @@ df2$term <- trimws(df2$term)
 
 #dat <- readxl::read_excel("terms.xlsx") From Corey 
 dat <- df2
-
 
 
 ## term diversity with time
@@ -155,7 +148,6 @@ for (s in 1:N) {
 }
 setNames(term.list, term.vec)
 
-#setwd("/Users/brad0317/Documents/Papers/Invasive species/Terminology/data")
 sink("termList.txt")
 print(term.list)
 sink()
