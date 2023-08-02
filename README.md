@@ -3,8 +3,11 @@
 <img align="right" src="www/terminology.png" width="250" style="margin-top: 20px">
 
 <br>
-Ismael Soto, University of South Bohemia in České Budějovice, Faculty of Fisheries and Protection of Waters, South Bohemian Research Centre of Aquaculture and Biodiversity of Hydrocenoses, Zátiší 728/II, 389 25 Vodňany, Czech Republic 
-
+Ismael Soto <br>
+University of South Bohemia in České Budějovice, Faculty of Fisheries and Protection of Waters<br>
+South Bohemian Research Centre of Aquaculture and Biodiversity of Hydrocenoses<br>
+Zátiší 728/II, 389 25 Vodňany, Czech Republic 
+<br>
 Prof <a href="https://globalecologyflinders.com/people/#DIRECTOR">Corey J. A. Bradshaw</a> <br>
 <a href="http://globalecologyflinders.com" target="_blank">Global Ecology</a> | <em><a href="https://globalecologyflinders.com/partuyarta-ngadluku-wardli-kuu/" target="_blank">Partuyarta Ngadluku Wardli Kuu</a></em>, <a href="http://flinders.edu.au" target="_blank">Flinders University</a>, Adelaide, Australia <br>
 last updated August 2023 <br>
