@@ -4,8 +4,8 @@
 
 <br>
 <a href="https://www.researchgate.net/profile/Ismael-Soto-4">Ismael Soto</a><br>
-University of South Bohemia in České Budějovice, Faculty of Fisheries and Protection of Waters<br>
-South Bohemian Research Centre of Aquaculture and Biodiversity of Hydrocenoses<br>
+<a href="https://www.jcu.cz/en/">University of South Bohemia in České Budějovice</a>, <a href="https://www.frov.jcu.cz/en/">Faculty of Fisheries and Protection of Waters</a><br>
+<a href="http://web.frov.jcu.cz/en/cenakva">South Bohemian Research Centre of Aquaculture and Biodiversity of Hydrocenoses</a>a><br>
 Zátiší 728/II, 389 25 Vodňany, Czech Republic 
 <br>
 <br>
