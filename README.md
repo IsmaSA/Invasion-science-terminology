@@ -3,7 +3,7 @@
 <img align="right" src="www/terminology.png" width="250" style="margin-top: 20px">
 
 <br>
-Ismael Soto <br>
+<a href="https://www.researchgate.net/profile/Ismael-Soto-4">Ismael Soto</a><br>
 University of South Bohemia in České Budějovice, Faculty of Fisheries and Protection of Waters<br>
 South Bohemian Research Centre of Aquaculture and Biodiversity of Hydrocenoses<br>
 Zátiší 728/II, 389 25 Vodňany, Czech Republic 
@@ -30,5 +30,5 @@ Standardised use of terminology in science is important for clarity in interpret
 ## Data
 You can download the data <a href="https://docs.google.com/spreadsheets/d/1FwVnvjcCN9KzIVwqxpsJxiM8y1Cs4-pj/edit?usp=drive_link&ouid=112604765661978933823&rtpof=true&sd=true">here</a> (> 25 MB)
 
-<a href="https://www.jcu.cz/en/"><img align="bottom-left" src="www/jcu.cz.logo.png" alt="JCU-CZ logo" width="200" style="margin-top: 20px"></a> <a href="https://www.flinders.edu.au"><img align="bottom-left" src="www/Flinders_University_Logo_Horizontal_RGB_Master.png" alt="Flinders University logo" width="200" style="margin-top: 20px"></a> <a href="https://globalecologyflinders.com"><img align="bottom-left" src="www/GEL Logo Kaurna New Transp.png" alt="GEL logo" width="200" style="margin-top: 20px"></a>
+<a href="https://www.jcu.cz/en/"><img align="bottom-left" src="www/jcu.cz.logo.png" alt="JCU-CZ logo" width="230" style="margin-top: 20px"></a> <a href="https://www.flinders.edu.au"><img align="bottom-left" src="www/Flinders_University_Logo_Horizontal_RGB_Master.png" alt="Flinders University logo" width="180" style="margin-top: 20px"></a> <a href="https://globalecologyflinders.com"><img align="bottom-left" src="www/GEL Logo Kaurna New Transp-2.png" alt="GEL logo" width="180" style="margin-top: 20px"></a>
 
