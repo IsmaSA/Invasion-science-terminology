@@ -1,6 +1,6 @@
 # Script to organise terminology data from the invasion-science literature
 
-<img align="right" src="www/terminology.png" width="250" style="margin-top: 20px">
+<img align="right" src="www/terminology.png" width="200" style="margin-top: 20px">
 
 <br>
 <a href="https://www.researchgate.net/profile/Ismael-Soto-4">Ismael Soto</a><br>
