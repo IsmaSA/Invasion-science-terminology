@@ -14,7 +14,7 @@ unique(df1$`WoS Categories`) #
 
 unique(df1$Term) # 55 Terms + invasive super dominant?,  native-alien 
 
-sp_to_remove = c('ruderal plant')
+sp_to_remove = c('ruderal plant','native-alien species')
 
 df1= df1 %>% filter(!Term %in% sp_to_remove)
 
