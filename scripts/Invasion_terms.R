@@ -3,7 +3,7 @@
 # Ismael Soto & Corey Bradshaw
 
 #####################################   Formatting   ################################################
-
+library(readxl)
 df = read_xlsx('WoS_Search_Terms_31July2023.xlsx') #From Fran 
 
 names(df)
