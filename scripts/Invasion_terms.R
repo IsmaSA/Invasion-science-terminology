@@ -12,7 +12,11 @@ df1 = df[,c(3,17,26,48, 51, 66)]
 head(df1)
 unique(df1$`WoS Categories`) #
 
-unique(df1$Term)
+unique(df1$Term) # 55 Terms + invasive super dominant?,  native-alien 
+
+sp_to_remove = c('ruderal plant')
+
+df1= df1 %>% filter(!Term %in% sp_to_remove)
 
 keywords <- c("Ecology", "Environmental", "Biodiversity", 'Plant Sciences','Fisheries',
               "Marine & Freshwater Biology", "Zoology", "Botany", "Agricultur")
