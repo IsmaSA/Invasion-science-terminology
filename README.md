@@ -30,10 +30,10 @@ Standardised terminology in science is important for clarity of interpretation a
 - <code>Invasion_terms.R</code>
 
 ## Data
-- termsWssp.csv: time series of term counts including 'species' (by year)
-- termsWOssp.csv: time series of term counts excluding 'species' (by year)
-- totalTermCount.csv: total counts per term over all time ('species' excluded from search terms)
-- totalTermCountWspp.csv: total counts per term over all time ('species' included in search terms)
+- <em>termsWssp.csv</em>: time series of term counts including 'species' (by year)
+- <em>termsWOssp.csv</em>: time series of term counts excluding 'species' (by year)
+- <em>totalTermCount.csv</em>: total counts per term over all time ('species' excluded from search terms)
+- <em>totalTermCountWspp.csv</em>: total counts per term over all time ('species' included in search terms)
 
 <a href="https://www.jcu.cz/en/"><img align="bottom-left" src="www/jcu.cz.logo.png" alt="JCU-CZ logo" width="230" style="margin-top: 20px"></a> <a href="https://www.flinders.edu.au"><img align="bottom-left" src="www/Flinders_University_Logo_Horizontal_RGB_Master.png" alt="Flinders University logo" width="180" style="margin-top: 20px"></a> <a href="https://globalecologyflinders.com"><img align="bottom-left" src="www/GEL Logo Kaurna New Transp-2.png" alt="GEL logo" width="180" style="margin-top: 20px"></a>
 
