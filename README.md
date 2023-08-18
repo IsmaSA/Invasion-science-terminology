@@ -30,6 +30,7 @@ Standardised terminology in science is important for clarity of interpretation a
 - <code>Invasion_terms.R</code>
 
 ## Data
+(compiled by <a href="https://oficialdegui.wixsite.com/oficialdegui">Francisco J. Oficialdegui</a>)
 - <em>termsWssp.csv</em>: time series of term counts including 'species' (by year)
 - <em>termsWOssp.csv</em>: time series of term counts excluding 'species' (by year)
 - <em>totalTermCount.csv</em>: total counts per term over all time ('species' excluded from search terms)
